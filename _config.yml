@@ -103,11 +103,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "I am lazy."
+  avatar           : "https://avatars.githubusercontent.com/u/58430149?v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "(sometimes lazier)"
+  location         : "the other side"
+  email            : "keizikang@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
