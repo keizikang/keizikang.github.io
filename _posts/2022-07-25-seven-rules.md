@@ -2,7 +2,7 @@
 layout: post
 title: "좋은 질문을 하기 위한 7원칙"
 subtitle: "miscell"
-date: 2022-07-25 23:49
+date: 2022-07-25 23:00:00
 background: 
 tag: [good question]
 ---
