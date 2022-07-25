@@ -1,10 +1,7 @@
 ---
-layout: post
 title: "좋은 질문을 하기 위한 7원칙"
-subtitle: "miscell"
-date: 2022-07-25 23:00:00
-background: 
-tag: [good question]
+date: 2022-07-01 23:00:00 +0900
+categories: notice
 ---
 
 # 좋은 질문을 하기 위한 7원칙
