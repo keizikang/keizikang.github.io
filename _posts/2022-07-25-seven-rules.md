@@ -57,3 +57,5 @@ categories: notice
 [프로그래밍 질문에 답변 잘 받는 방법 - 배우는 프로그래머](https://www.youtube.com/watch?v=Vjjd5nUkEGE)
 
 [초보 개발자, 이것만 안 해도 평균 이상 갑니다 - 삼평동 연구소](https://www.youtube.com/watch?v=NHuxGa8dL1s)
+
+[초보자들이 범하는 오류](https://oops.org/?t=lecture&sb=beginner&n=1)와 [좋은 질문 하는 법](https://oops.org/?&t=lecture&sb=beginner&n=2) - [김정균님](https://oops.org/)
